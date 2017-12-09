@@ -1,0 +1,7 @@
+C:\Users\MuhammadRezaulkarim\source\repos\RandomNumberListProject\RandomNumberListProject\bin\Debug\RandomNumberListProject.exe.config
+C:\Users\MuhammadRezaulkarim\source\repos\RandomNumberListProject\RandomNumberListProject\bin\Debug\RandomNumberListProject.exe
+C:\Users\MuhammadRezaulkarim\source\repos\RandomNumberListProject\RandomNumberListProject\bin\Debug\RandomNumberListProject.pdb
+C:\Users\MuhammadRezaulkarim\source\repos\RandomNumberListProject\RandomNumberListProject\obj\Debug\RandomNumberListProject.csprojResolveAssemblyReference.cache
+C:\Users\MuhammadRezaulkarim\source\repos\RandomNumberListProject\RandomNumberListProject\obj\Debug\RandomNumberListProject.csproj.CoreCompileInputs.cache
+C:\Users\MuhammadRezaulkarim\source\repos\RandomNumberListProject\RandomNumberListProject\obj\Debug\RandomNumberListProject.exe
+C:\Users\MuhammadRezaulkarim\source\repos\RandomNumberListProject\RandomNumberListProject\obj\Debug\RandomNumberListProject.pdb
